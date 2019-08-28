@@ -1,0 +1,2 @@
+# Meu primeiro chat feito em Node.JS com Socket.io e HTTP
+Este é o meu primeiro projeto de site no intuito de aprender Node.JS e suas funcionalidades, nele contém uma conexão de servidor HTTP para criação de site com routes e um sistema de conexão via Socket.io para criação das mensagens em tempo real do chat.
